@@ -1,4 +1,4 @@
-# 🤖 Introduction to Artificial Intelligence and Data Science
+# 🤖 Introduction to Artificial Intelligence and Data Science (KTU)
 
 <div align="center">
 
